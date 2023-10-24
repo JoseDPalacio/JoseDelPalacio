@@ -1,4 +1,6 @@
 import java.util.Scanner;
+//Compañero Sol Lereah y Óscar Cuenca Martín
+//para evitar dividir por cero se puede hacer que en la segundad lectura de número pedir que no ingresen un cero
 
 public class Main {
     public static void main(String[] args) {
