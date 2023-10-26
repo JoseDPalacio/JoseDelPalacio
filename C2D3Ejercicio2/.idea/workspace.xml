@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b4589c5-d0b4-41e2-81d6-06c099d4e81a" name="Changes" comment="" />
+    <list default="true" id="9048edb5-b8cf-467b-ad6b-b4a7b507901a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/EjerciciosClase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C2D3Ejercicio1/C2D3Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2D3Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C2D3Ejercicio3/C2D3Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C2D3Ejercicio4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C2D3Ejercicio4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C2D3Ejercicio4/C2D3Ejercicio4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C3D4Ejercicio2/C3D4Ejercicio21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio1/C1D2Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio1/C1D2Ejercicio11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio2/C1D2Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio2/C1D2Ejercicio21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio3/C1D2Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio3/C1D2Ejercicio31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio4/C1D2Ejercicio4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio4/C1D2Ejercicio41.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C3D4Ejercicio1/C3D4Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C3D4Ejercicio1/C3D4Ejercicio11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicios/C3D4Ejercicio2/C3D4Ejercicio2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C2D3Ejercicio1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C2D3Ejercicio1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C2D3Ejercicio3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C2D3Ejercicio3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C2D3Ejercicio4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C2D3Ejercicio4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C2D3Ejercicio4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C2D3Ejercicio4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +43,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2XFVU2pJIRLrEcJuPlSf65PFKWu" />
+  <component name="ProjectId" id="2XIVTks0duSwLN1jqDzHxoNkEeU" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -35,28 +57,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b4589c5-d0b4-41e2-81d6-06c099d4e81a" name="Changes" comment="" />
-      <created>1698224826805</created>
+      <changelist id="9048edb5-b8cf-467b-ad6b-b4a7b507901a" name="Changes" comment="" />
+      <created>1698316591237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698224826805</updated>
+      <updated>1698316591237</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.util.InputMismatchException" package="java.util" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
