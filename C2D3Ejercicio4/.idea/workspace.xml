@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b2a16111-abaa-4be4-a904-e05677203f08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/EjerciciosClase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C2D3Ejercicio1/C2D3Ejercicio1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C2D3Ejercicio2/C2D3Ejercicio2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C2D3Ejercicio3/C2D3Ejercicio3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2D3Ejercicio4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C3D4Ejercicio2/C3D4Ejercicio21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio1/C1D2Ejercicio1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio1/C1D2Ejercicio11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio2/C1D2Ejercicio2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio2/C1D2Ejercicio21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio3/C1D2Ejercicio3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio3/C1D2Ejercicio31.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio4/C1D2Ejercicio4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C1D2Ejercicio4/C1D2Ejercicio41.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C3D4Ejercicio1/C3D4Ejercicio1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C3D4Ejercicio1/C3D4Ejercicio11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ejercicios/C3D4Ejercicio2/C3D4Ejercicio2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../C2D3Ejercicio1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C2D3Ejercicio1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C2D3Ejercicio2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C2D3Ejercicio2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C2D3Ejercicio3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C2D3Ejercicio3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2XIVp4LT9ccU9FMf0vzEhzlRYmX" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -58,7 +38,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Usuario/Desktop/EjerciciosClase/C3D4Ejercicio2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
