@@ -34,9 +34,7 @@ public class Main {
 
         //Encontrar evento mas proximo
         System.out.println("------Encrontrar evento------");
-        Evento evento = eventos.stream()
-                .sorted(Comparator.comparing(Evento::getFecha))
-                .findFirst()
+        Evento evento = eventos.stream().min(Comparator.comparing(Evento::getFecha))
                 .get();
         System.out.println(evento);
     }
