@@ -45,6 +45,11 @@ public class Voto implements Serializable{
     public void setCantidad(int cantidad) {
         this.cantidad = cantidad;
     }
+
+    @Override
+    public String toString() {
+        return "Voto{" + "partido=" + partido + ", cantidad=" + cantidad + '}';
+    }
     
     
 }
