@@ -64,12 +64,10 @@
                             <td><%=v.getPartido()%></td>
                             <td><%= v.getCantidad()%></td>
                         </tr>
-                        <%
-                                }
-                            }
-                        %>
+                        <%}%>
                     </tbody>
                 </table>
+                <%}%>
             </div>
         </div>
 

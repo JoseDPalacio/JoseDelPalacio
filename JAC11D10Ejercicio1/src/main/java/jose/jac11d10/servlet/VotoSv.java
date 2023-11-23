@@ -1,6 +1,8 @@
 package jose.jac11d10.servlet;
 
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.List;
 import java.util.NoSuchElementException;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -29,29 +31,9 @@ public class VotoSv extends HttpServlet {
             throws ServletException, IOException {
         System.out.println("$$$$$$--enVotoSv.doPost()");
         String votado = request.getParameter("voto");
-
-        if (control.traerVotos().isEmpty()) {
-            System.out.println("No existen los datos en la BBDD, creando");
-            control.crearVoto(new Voto(
-                    votado, 1));
-        } else {
-            System.out.println("existe la tabla");
-            Voto voto = null;
-            try {
-                voto = control.traerVotos().stream().filter(v -> v.getPartido().equals(votado)).findFirst().get();
-                System.out.println("Antes de votar: "+voto);
-                voto.setCantidad(voto.getCantidad()+1);
-                control.editarVoto(voto);
-            } catch (NoSuchElementException ex) {
-                control.crearVoto(new Voto(
-                        votado, 1));
-                voto = control.traerVotos().stream().filter(v -> v.getPartido().equals(votado)).findFirst().get();
-            }
-
-            System.out.println("Despues de votar: "+voto);
-        }
-
-
+        
+        control.votar(votado);
+        
         //llamada para mantenerse en la misma pagina
         request.getRequestDispatcher("index.jsp").forward(request, response);
     }
